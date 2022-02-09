@@ -2,11 +2,11 @@
 
 A basic ruby RSS feed that you can read in your terminal!
 
-You can make it into a command by making a file
+You can make it into a command by making a file:
 ```
 echo "ruby /home/${USER}/cauldron/main.rb" >> cauldron
 ```
-And moving the file to your bin folder
+And moving the file to your bin folder:
 ```
 sudo mv ~/cauldron /usr/bin/
 ```
