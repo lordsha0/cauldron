@@ -1,0 +1,872 @@
+
+ ####################################################
+ # Welcome to the Cauldron, your daily mix of news! #
+ ####################################################
+
+
+// Dark Reading
+
+> Log4j and the Role of SBOMs in Reducing Software Security Risk
+% Wed, 09 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/log4j-and-the-role-of-sboms-in-reducing-software-security-risk
+
+> Microsoft Issues 51 CVEs for Patch Tuesday, None 'Critical'
+% Tue, 08 Feb 2022 23:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-51-cves-for-patch-tuesday-none-critical-
+
+> Google Cuts User Account Compromises in Half With Simple Change
+% Tue, 08 Feb 2022 21:43:36 +0000
+$ https://www.darkreading.com/attacks-breaches/google-cuts-account-compromises-in-half-with-simple-change
+
+> Get Started on Continuous Compliance Ahead of PCI DSS v4.0
+% Tue, 08 Feb 2022 21:17:09 +0000
+$ https://www.darkreading.com/edge/get-started-on-continuous-compliance-ahead-of-pci-dss-v4-0
+
+> Threat Actors Revive 20-Year-Old Tactic in Microsoft 365 Phishing Attacks
+% Tue, 08 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/threat-actors-revive-20-year-old-tactic-in-microsoft-365-phishing-attacks
+
+> Vulnerability Scanning Triples, Leading to Two-Thirds Fewer Flaws
+% Tue, 08 Feb 2022 18:19:42 +0000
+$ https://www.darkreading.com/application-security/vulnerability-scanning-triples-leading-to-two-third-fewer-flaws
+
+> Cyber Terrorism Is a Growing Threat & Governments Must Take Action
+% Tue, 08 Feb 2022 18:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/cyber-terrorism-is-a-growing-threat-governments-must-take-action
+
+> Qualys Launches Context XDR
+% Tue, 08 Feb 2022 15:10:00 +0000
+$ https://www.darkreading.com/cloud/qualys-launches-context-xdr
+
+> InterVision Unveils Ransomware Protection as a Service
+% Tue, 08 Feb 2022 15:05:00 +0000
+$ https://www.darkreading.com/attacks-breaches/intervision-unveils-ransomware-protection-as-a-service
+
+> Salesforce DevOps Needs Guardrails
+% Tue, 08 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/cloud/salesforce-devops-needs-guardrails
+
+> DeepSurface Security Secures $4.5M for Business Expansion
+% Tue, 08 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/risk/deepsurface-security-secures-4-5m-for-business-expansion
+
+> Prioritizing the Right Vulnerabilities to Reduce Risk
+% Tue, 08 Feb 2022 09:21:24 +0000
+$ https://www.darkreading.com/crowdstrike/prioritizing-the-right-vulnerabilities-to-reduce-risk
+
+> Russian APT Steps Up Malicious Cyber Activity in Ukraine
+% Mon, 07 Feb 2022 23:31:07 +0000
+$ https://www.darkreading.com/attacks-breaches/russian-apt-steps-up-malicious-activity-in-ukraine
+
+> FBI Publishes Indicators of Compromise for LockBit 2.0 Ransomware
+% Mon, 07 Feb 2022 21:29:15 +0000
+$ https://www.darkreading.com/threat-intelligence/fbi-publishes-indicators-of-compromise-for-lockbit-2-0-ransomware
+
+> A Prophylactic Approach for Today's Vulnerable Websites and Web Apps
+% Mon, 07 Feb 2022 20:00:00 +0000
+$ https://www.darkreading.com/application-security/a-prophylactic-approach-for-today-s-vulnerable-websites-and-web-apps
+
+> SecurityScorecard Acquires LIFARS
+% Mon, 07 Feb 2022 20:00:00 +0000
+$ https://www.darkreading.com/risk/securityscorecard-acquires-lifars
+
+> When Multifactor Authentication Is Compromised: Fighting Back With AI
+% Mon, 07 Feb 2022 19:30:00 +0000
+$ https://www.darkreading.com/dr-tech/when-multifactor-authentication-is-compromised-fighting-back-with-ai
+
+> Log4j: Getting From Stopgap Remedies to Long-Term Solutions
+% Mon, 07 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/log4j-getting-from-stopgap-remedies-to-long-term-solutions
+
+> Name That Edge Toon: Head of the Table
+% Mon, 07 Feb 2022 14:10:00 +0000
+$ https://www.darkreading.com/edge-articles/name-that-edge-toon-head-of-the-table
+
+> The 3 Most Common Causes of Data Breaches in 2021
+% Fri, 04 Feb 2022 21:23:34 +0000
+$ https://www.darkreading.com/edge-threat-monitor/most-common-cause-of-data-breach-in-2021-phishing-smishing-bec
+
+> Expert Insights: Training the Data Elephant in the AI Room
+% Fri, 04 Feb 2022 20:16:00 +0000
+$ https://www.darkreading.com/risk/irresponsible-ai-training-the-data-elephant-in-the-room
+
+> China-Linked Group Attacked Taiwanese Financial Firms for 18 Months
+% Fri, 04 Feb 2022 16:18:23 +0000
+$ https://www.darkreading.com/threat-intelligence/china-linked-group-attacked-taiwanese-financial-firms-for-18-months
+
+> Want to Be an Ethical Hacker? Here's Where to Begin
+% Fri, 04 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/careers-and-people/want-to-be-an-ethical-hacker-here-s-where-to-begin
+
+> Mac Malware-Dropping Adware Gets More Dangerous
+% Thu, 03 Feb 2022 23:05:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/mac-malware-dropping-adware-gets-more-dangerous
+
+> Mandiant Bolsters SaaS Platform With Integration of New Attack Surface Management Module
+% Thu, 03 Feb 2022 23:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/mandiant-bolsters-saas-platform-with-integration-of-new-attack-surface-management-module
+
+> Several India-Based Call Centers Indicted by US DoJ
+% Thu, 03 Feb 2022 22:30:00 +0000
+$ https://www.darkreading.com/risk/several-india-based-call-centers-indicted-by-us-doj
+
+> Tenable Launches Suite of New Features to Cloud-Native Application Security Platform
+% Thu, 03 Feb 2022 22:00:00 +0000
+$ https://www.darkreading.com/cloud/tenable-launches-suite-of-new-features-to-cloud-native-application-security-platform
+
+> The Future of Cybersecurity: Our Predictions for 2022
+% Thu, 03 Feb 2022 22:00:00 +0000
+$ https://www.darkreading.com/threat-intelligence/the-future-of-cybersecurity-our-predictions-for-2022
+
+> Research From Quantum and ESG Reveals Top Challenges in Data Management
+% Thu, 03 Feb 2022 21:55:00 +0000
+$ https://www.darkreading.com/analytics/research-from-quantum-and-esg-reveals-top-challenges-in-data-management
+
+> DHS Launches Cyber Safety Review Board to Analyze Major Vulnerability Events
+% Thu, 03 Feb 2022 21:50:02 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/cyber-safety-review-board-to-analyze-major-vulnerability-events
+
+> Menlo Security Finds Cloud Migration and Remote Work Gives Rise to New Era of Malware, Highly Evasive Adaptive Threats (HEAT)
+% Thu, 03 Feb 2022 21:50:00 +0000
+$ https://www.darkreading.com/attacks-breaches/menlo-security-finds-cloud-migration-and-remote-work-gives-rise-to-new-era-of-malware-highly-evasive-adaptive-threats-heat-
+
+> Microsoft: Multifactor Adoption Remains Low
+% Thu, 03 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/operations/microsoft-multifactor-adoption-remains-low
+
+> BIO-key to Expand Customer Reach and Talent in EMEA Region 
+% Thu, 03 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/operations/bio-key-to-expand-customer-reach-and-talent-in-emea-region-via-definitive-agreement-to-acquire-authentication-solutions-provider-swivel-secure-europe
+
+> Keeper Security Acquires Glyptodon 
+% Thu, 03 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/endpoint/keeper-security-acquires-glyptodon-
+
+> BreachQuest Welcomes Sandy Dunn as Chief Information Security Officer
+% Thu, 03 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/careers-and-people/breachquest-welcomes-sandy-dunn-as-chief-information-security-officer
+
+> HackNotice Releases Combined Security and Threat Awareness Service for Free
+% Thu, 03 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/hacknotice-releases-combined-security-and-threat-awareness-service-for-free
+
+> Simplifying Zero Trust Security in Healthcare Organizations
+% Thu, 03 Feb 2022 19:11:27 +0000
+$ https://www.darkreading.com/crowdstrike/simplifying-zero-trust-security-in-healthcare-organizations
+
+> Big Pharma Finds Patch Management a Bitter Pill
+% Thu, 03 Feb 2022 19:00:00 +0000
+$ https://www.darkreading.com/tech-trends/big-pharma-finds-patch-management-a-bitter-pill
+
+> Hackers Went Wild in 2021 — Every Company Should Do These 5 Things in 2022
+% Thu, 03 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/hackers-went-wild-in-2021-every-company-should-do-these-5-things-in-2022
+
+> If My Organization Is Mostly in the Cloud, Do I Need a Firewall?
+% Wed, 02 Feb 2022 23:00:00 +0000
+$ https://www.darkreading.com/edge-ask-the-experts/if-my-organization-is-mostly-in-the-cloud-do-i-need-a-firewall-
+
+> Cato Networks Delivers Instant Visibility and Control of Cloud Application Data Risk
+% Wed, 02 Feb 2022 21:16:00 +0000
+$ https://www.darkreading.com/cloud/cato-networks-delivers-instant-visibility-and-control-of-cloud-application-data-risk
+
+> INKY Completes Email Security Offering With Launch of Outbound Mail Protection
+% Wed, 02 Feb 2022 21:00:00 +0000
+$ https://www.darkreading.com/endpoint/inky-completes-email-security-offering-with-launch-of-outbound-mail-protection
+
+> WhiteSource Threat Report Reveals Massive Uptick In Cyberattacks Related To JavaScript npm
+% Wed, 02 Feb 2022 20:30:00 +0000
+$ https://www.darkreading.com/attacks-breaches/whitesource-threat-report-reveals-massive-uptick-in-cyberattacks-related-to-javascript-npm
+
+> Why Security Pros Are Frustrated With Cloud Security
+% Wed, 02 Feb 2022 20:27:26 +0000
+$ https://www.darkreading.com/cloud/why-security-pros-are-frustrated-with-cloud-security
+
+> Foresite Cybersecurity Acquires Cyber Lantern
+% Wed, 02 Feb 2022 20:00:00 +0000
+$ https://www.darkreading.com/risk/foresite-cybersecurity-acquires-cyber-lantern
+
+> Managing Detections Is Not the Same as Stopping Breaches
+% Wed, 02 Feb 2022 18:30:01 +0000
+$ https://www.darkreading.com/crowdstrike/managing-detections-is-not-the-same-as-stopping-breaches
+
+> The Real-World Impact of the Global Cybersecurity Workforce Gap on Cyber Defenders
+% Wed, 02 Feb 2022 18:00:00 +0000
+$ https://www.darkreading.com/careers-and-people/the-real-world-impact-of-the-global-cybersecurity-workforce-gap-on-cyber-defenders
+
+> 8 Security Dinosaurs and What Filled Their Footprints
+% Wed, 02 Feb 2022 15:10:00 +0000
+$ https://www.darkreading.com/dr-tech/8-security-dinosaurs-and-what-filled-their-footprints
+
+> Olympic Athletes Advised by FBI to Bring 'Burner' Phones to Beijing
+% Wed, 02 Feb 2022 15:10:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/olympic-athletes-advised-by-fbi-to-bring-burner-phones-to-beijing
+
+> TikTok's Roland Cloutier: How CISOs Can Foster a Culture of Security & Transparency
+% Wed, 02 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/careers-and-people/tiktok-s-roland-cloutier-on-how-cisos-can-foster-a-culture-of-security-and-transparency
+
+> Tens of Thousands of Websites Vulnerable to RCE Flaw in WordPress Plug-in
+% Wed, 02 Feb 2022 14:30:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/tens-of-thousands-of-websites-vulnerable-to-rce-flaw-in-wordpress-plugin
+
+> Secure Web Browsers Tackle Ransomware, Insider Threat in Enterprises
+% Tue, 01 Feb 2022 23:36:54 +0000
+$ https://www.darkreading.com/emerging-tech/secure-web-browsers-tackle-ransomware-insider-threat-in-enterprises
+
+> ThycoticCentrify Renamed Delinea
+% Tue, 01 Feb 2022 23:04:27 +0000
+$ https://www.darkreading.com/endpoint/thycotic-centrify-renamed-delinea
+
+> Nucleus Security Forms Strategic Partnership with Mandiant
+% Tue, 01 Feb 2022 23:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/nucleus-security-forms-strategic-partnership-with-mandiant
+
+> Vectra Acquires Siriux Security Technologies to Extend Leadership in Identity and SaaS Threat Management
+% Tue, 01 Feb 2022 22:30:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/vectra-acquires-siriux-security-technologies-to-extend-leadership-in-identity-and-saas-threat-management
+
+> Forescout Acquires CyberMDX to Expand Healthcare Cybersecurity Focus
+% Tue, 01 Feb 2022 22:20:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/forescout-acquires-cybermdx-to-expand-healthcare-cybersecurity-focus
+
+> Ping Identity Launches PingOne DaVinci
+% Tue, 01 Feb 2022 22:20:00 +0000
+$ https://www.darkreading.com/endpoint/ping-identity-launches-pingone-davinci
+
+> Digital Shadows Launches New Vulnerability Intelligence Module
+% Tue, 01 Feb 2022 22:15:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/digital-shadows-launches-new-vulnerability-intelligence-module
+
+> Disclosure, Panic, Patch: Can We Do Better?
+% Tue, 01 Feb 2022 22:00:00 +0000
+$ https://www.darkreading.com/application-security/disclosure-panic-patch-can-we-do-better-
+
+> ShiftLeft CORE 'Velocity Update' Streamlines Triage, Automates Build Security Controls
+% Tue, 01 Feb 2022 20:00:00 +0000
+$ https://www.darkreading.com/application-security/shiftleft-core-velocity-update-streamlines-triage-automates-build-security-controls
+
+> 7 Red Flags That Can Stop Your Company From Becoming a Unicorn
+% Tue, 01 Feb 2022 19:00:00 +0000
+$ https://www.darkreading.com/edge-articles/7-red-flags-that-can-stop-your-company-from-becoming-a-unicorn
+
+> Complexity vs. Capability: How to Bridge the Security Effectiveness Gap
+% Tue, 01 Feb 2022 18:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/complexity-vs-capability-how-to-bridge-the-security-effectiveness-gap
+
+> Qualys Adds Advanced Remediation Capabilities to Minimize Vulnerability Risk
+% Tue, 01 Feb 2022 15:15:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/qualys-adds-advanced-remediation-capabilities-to-minimize-vulnerability-risk
+
+> Mastercard Launches Global Cybersecurity Alliance Program to Further Secure The Digital Ecosystem
+% Tue, 01 Feb 2022 15:05:00 +0000
+$ https://www.darkreading.com/risk/mastercard-launches-global-cybersecurity-alliance-program-to-further-secure-the-digital-ecosystem
+
+> Critical Log4j Vulnerabilities Are the Ultimate Gift for Cybercriminals
+% Tue, 01 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/critical-log4j-vulnerabilities-are-the-ultimate-gift-for-cybercriminals
+
+> NortonLifeLock Introduces Social Media Monitoring
+% Tue, 01 Feb 2022 15:00:00 +0000
+$ https://www.darkreading.com/endpoint/nortonlifelock-introduces-social-media-monitoring
+
+> Coalition Launches Executive Risks Products With Personalized Risk Assessment
+% Tue, 01 Feb 2022 13:22:00 +0000
+$ https://www.darkreading.com/risk/coalition-launches-executive-risks-products-with-personalized-risk-assessment
+
+> Cymulate Launches Service to Augment In-House Security Teams
+% Tue, 01 Feb 2022 13:20:00 +0000
+$ https://www.darkreading.com/risk/cymulate-launches-service-to-augment-in-house-security-teams
+
+> Security Service Edge Boosters Form New Forum to Encourage Adoption
+% Tue, 01 Feb 2022 00:00:00 +0000
+$ https://www.darkreading.com/dr-tech/security-service-edge-boosters-form-new-forum-to-encourage-adoption
+
+> Mandiant: 1 in 7 Ransomware Extortion Attacks Exposes OT Data
+% Mon, 31 Jan 2022 23:12:59 +0000
+$ https://www.darkreading.com/attacks-breaches/mandiant-one-in-7-ransomware-extortion-attacks-expose-ot-data
+
+> BlackBerry Agrees to Sell Legacy Patents for $600M
+% Mon, 31 Jan 2022 22:29:32 +0000
+$ https://www.darkreading.com/endpoint/blackberry-agrees-to-sell-legacy-patents-for-600m
+
+> Aggressive BlackCat Ransomware on the Rise
+% Mon, 31 Jan 2022 21:43:47 +0000
+$ https://www.darkreading.com/threat-intelligence/aggressive-blackcat-ransomware-on-the-rise
+
+> 7 Privacy Tips for Security Pros 
+% Mon, 31 Jan 2022 15:50:00 +0000
+$ https://www.darkreading.com/risk/7-privacy-tips-for-security-pros-
+
+> The Zero-Trust Timer Is on for Federal Agencies — How Ready Are They?
+% Mon, 31 Jan 2022 15:17:28 +0000
+$ https://www.darkreading.com/endpoint/the-zero-trust-timer-is-on-for-federal-agencies-how-ready-are-they-
+
+> Crypto Agility: Solving for the Inevitable
+% Mon, 31 Jan 2022 15:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/crypto-agility-solving-for-the-inevitable
+
+> The Looming CISO Mental Health Crisis — and What to Do About It, Part 2
+% Mon, 31 Jan 2022 14:00:00 +0000
+$ https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-2
+
+> Energy Sector Still Needs to Shut the Barn Door
+% Fri, 28 Jan 2022 21:35:00 +0000
+$ https://www.darkreading.com/tech-trends/energy-sector-still-needs-to-shut-the-barn-door
+
+> The Looming CISO Mental Health Crisis — and What to Do About It, Part 1
+% Fri, 28 Jan 2022 18:30:00 +0000
+$ https://www.darkreading.com/edge-articles/the-looming-ciso-mental-health-crisis-and-what-to-do-about-it-part-1
+
+> More Security Flaws Found in Apple's OS Technologies
+% Fri, 28 Jan 2022 15:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/more-security-flaws-found-in-apple-s-OS-technologies
+
+> Navigating Nobelium: Lessons From Cloud Hopper & NotPetya
+% Fri, 28 Jan 2022 15:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/navigating-nobelium-lessons-from-cloud-hopper-notpetya
+
+> Data Privacy Day 2022: How Can AI Help in the Fight Against Ransomware?
+% Fri, 28 Jan 2022 09:00:00 +0000
+$ https://www.darkreading.com/omdia/data-privacy-day-2022-how-can-ai-help-in-the-fight-against-ransomware-
+
+> Phishing Simulation Study Shows Why These Attacks Remain Pervasive
+% Thu, 27 Jan 2022 22:53:28 +0000
+$ https://www.darkreading.com/threat-intelligence/simulation-shows-why-phishing-attacks-continue-to-dominate
+
+> Security Service Edge: 4 Core Tenets for Your SASE Journey
+% Thu, 27 Jan 2022 22:35:00 +0000
+$ https://www.darkreading.com/edge/security-service-edge-4-core-tenets-for-your-sase-journey
+
+> IFSEC Seeks Security Pros for New Survey on Physical Access Control
+% Thu, 27 Jan 2022 18:00:00 +0000
+$ https://www.darkreading.com/physical-security/ifsec-seeks-security-pros-for-new-survey-on-physical-access-control
+
+> With Cloud the Norm, Insiders Are Everywhere — and Pose Greater Risk
+% Thu, 27 Jan 2022 16:36:15 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/with-cloud-the-norm-insiders-are-everywhere-and-pose-greater-risk
+
+> Barracuda Expands Email and Endpoint Protection Capabilities in MSP Security Offerings
+% Thu, 27 Jan 2022 15:25:00 +0000
+$ https://www.darkreading.com/cloud/barracuda-expands-email-and-endpoint-protection-capabilities-in-msp-security-offerings
+
+> Censys Completes $35 Million Series B Funding Round Led by Intel Capital
+% Thu, 27 Jan 2022 15:20:00 +0000
+$ https://www.darkreading.com/attacks-breaches/censys-completes-35-million-series-b-funding-round-led-by-intel-capital
+
+> Log4j Proved Public Disclosure Still Helps Attackers
+% Thu, 27 Jan 2022 15:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/log4j-proved-public-disclosure-still-helps-attackers
+
+> IT Pros May Use Cloud, But They Trust On-Prem More
+% Thu, 27 Jan 2022 02:00:00 +0000
+$ https://www.darkreading.com/edge-threat-monitor/it-pros-may-use-cloud-but-they-trust-on-prem-more
+
+> JFrog's New Tools Flag Malicious JavaScript Packages
+% Wed, 26 Jan 2022 23:54:04 +0000
+$ https://www.darkreading.com/dr-tech/jfrog-new-tools-flag-malicious-javascript-packages
+
+> Millions of Routers, IoT Devices at Risk as Malware Source Code Surfaces on GitHub
+% Wed, 26 Jan 2022 23:30:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/source-code-for-malware-targeting-millions-of-routers-iot-devices-uploaded-to-github
+
+>  ArmorCode Closes $11 Million Seed Funding Round
+% Wed, 26 Jan 2022 23:25:00 +0000
+$ https://www.darkreading.com/application-security/-armorcode-closes-11-million-seed-funding-round
+
+> OMB Issues Zero-Trust Strategy for Federal Agencies
+% Wed, 26 Jan 2022 22:27:51 +0000
+$ https://www.darkreading.com/risk/omb-issues-zero-trust-strategy-for-federal-agencies
+
+> Experts Urge Firms to Patch Trivial-to-Exploit Flaw in Linux PolicyKit
+% Wed, 26 Jan 2022 18:30:05 +0000
+$ https://www.darkreading.com/vulnerability-management/experts-urge-firms-to-patch-trivial-to-exploit-flaw-in-linux-policykit
+
+> Cybersecurity Is Broken: How We Got Here & How to Start Fixing It
+% Wed, 26 Jan 2022 18:00:00 +0000
+$ https://www.darkreading.com/attacks-breaches/cybersecurity-is-broken-how-we-got-here-and-how-to-start-fixing-it
+
+> VPNLab.net Shuttered in Latest Spate of Global Takedowns
+% Wed, 26 Jan 2022 15:43:45 +0000
+$ https://www.darkreading.com/attacks-breaches/vpnlab-shuttered-in-latest-spate-of-global-takedowns
+
+> Why It's Time to Rethink Incident Response
+% Wed, 26 Jan 2022 15:00:00 +0000
+$ https://www.darkreading.com/vulnerabilities-threats/why-it-s-time-to-rethink-incident-response
+
+> Fighting Supply Chain Email Attacks With AI
+% Wed, 26 Jan 2022 11:00:00 +0000
+$ https://www.darkreading.com/dr-tech/fighting-supply-chain-email-attacks-with-ai
+
+> Revelstoke Launches With SOAR Platform to Automate SOCs
+% Wed, 26 Jan 2022 00:39:07 +0000
+$ https://www.darkreading.com/dr-tech/revelstoke-launches-with-soar-platform-to-automate-socs
+
+> Threat Actors Use Microsoft OneDrive for Command-and-Control in Attack Campaign
+% Tue, 25 Jan 2022 22:55:06 +0000
+$ https://www.darkreading.com/attacks-breaches/threat-actors-use-microsoft-onedrive-for-command-and-control-in-attack-campaign
+
+
+// Techmeme
+
+> How the feds caught Heather Morgan and Ilya Lichtenstein as they allegedly attempted, rather sloppily, to launder bitcoin from the Bitfinex hack (Matt Levine/Bloomberg)
+% Wed, 09 Feb 2022 13:52:51 -0500
+$ http://www.techmeme.com/220209/p33#a220209p33
+
+> Meta announces updates for Messenger: Split Payments in the US on iOS and Android, updated audio features, and Vanish Mode for disappearing messages (Stephen Warwick/iMore)
+% Wed, 09 Feb 2022 12:25:01 -0500
+$ http://www.techmeme.com/220209/p32#a220209p32
+
+> Tumblr launches a tip jar, initially in the US, on iOS, Android, and the web; Tumblr will not take a cut and won't use Apple or Google's billing systems (Amanda Silberling/TechCrunch)
+% Wed, 09 Feb 2022 12:15:22 -0500
+$ http://www.techmeme.com/220209/p31#a220209p31
+
+> In a bid to appease lawmakers and regulators, Microsoft outlines 11 app store principles, including equal treatment and allowing third-party payment processing (Cat Zakrzewski/Washington Post)
+% Wed, 09 Feb 2022 11:47:24 -0500
+$ http://www.techmeme.com/220209/p30#a220209p30
+
+> Sony details GT Sophy, an AI built to master Gran Turismo that outraces human drivers; the research could eventually help develop autonomous vehicles (Will Knight/Wired)
+% Wed, 09 Feb 2022 11:20:01 -0500
+$ http://www.techmeme.com/220209/p29#a220209p29
+
+> Instagram rolls out tools to remove posts, comments, and more in bulk, and review past interactions and searches, after a preview in December (Karissa Bell/Engadget)
+% Wed, 09 Feb 2022 11:10:02 -0500
+$ http://www.techmeme.com/220209/p28#a220209p28
+
+> As CB Insights estimates there are 1K unicorns globally, about two added the herd per day in 2022, a look at soaring valuations, the "first" unicorns, and more (Ellen Huet/Bloomberg)
+% Wed, 09 Feb 2022 10:55:01 -0500
+$ http://www.techmeme.com/220209/p27#a220209p27
+
+> Samsung Galaxy Tab S8 Ultra hands-on: a laptop replacement and iPad Pro rival that is unwieldy as a tablet, slim frames and a notch, and the S-Pen is responsive (Phillip Tracy/Gizmodo)
+% Wed, 09 Feb 2022 10:34:10 -0500
+$ http://www.techmeme.com/220209/p26#a220209p26
+
+> Samsung promises four years of Android updates for the Galaxy S22 series, Tab S8 series, S21 series, Z Flip 3, and Z Fold 3, up from the standard three years (Ben Schoon/9to5Google)
+% Wed, 09 Feb 2022 10:28:11 -0500
+$ http://www.techmeme.com/220209/p25#a220209p25
+
+> Samsung Galaxy S22 and S22+ hands-on: an incremental update, flat displays, Vision Booster adjusts the screen based on ambient light, and same price as the S21s (Sam Rutherford/Engadget)
+% Wed, 09 Feb 2022 10:23:03 -0500
+$ http://www.techmeme.com/220209/p24#a220209p24
+
+> Hands-on with the Samsung Galaxy S22 Ultra: feels like the Note, distinct hardware, mesmerizing display, impressive specs, and welcome S-Pen support (Sam Rutherford/Engadget)
+% Wed, 09 Feb 2022 10:17:11 -0500
+$ http://www.techmeme.com/220209/p23#a220209p23
+
+> Samsung debuts Galaxy S22 Ultra starting at $1,199 with a 6.8" 120Hz display, S-Pen support, up to 1TB of storage, and updated cameras, on sale from February 25 (Allison Johnson/The Verge)
+% Wed, 09 Feb 2022 10:12:04 -0500
+$ http://www.techmeme.com/220209/p22#a220209p22
+
+> Samsung unveils the $1,100 Tab S8 Ultra, with a 14.6" 120Hz display, 16GB of RAM, two front-facing cameras, and Snapdragon Gen 1, shipping later in February (Dan Seifert/The Verge)
+% Wed, 09 Feb 2022 10:09:43 -0500
+$ http://www.techmeme.com/220209/p21#a220209p21
+
+> Samsung unveils 6.1" Galaxy S22 and 6.6" S22+ with updated cameras, 10Hz-120Hz displays, and Snapdragon 8 Gen 1, coming February 25, starting at $800 and $1,000 (Chris Welch/The Verge)
+% Wed, 09 Feb 2022 10:07:05 -0500
+$ http://www.techmeme.com/220209/p20#a220209p20
+
+> Livestream of Samsung's Galaxy Unpacked event (YouTube)
+% Wed, 09 Feb 2022 09:58:27 -0500
+$ http://www.techmeme.com/220209/p19#a220209p19
+
+
+// BBC News - Technology
+
+> Samsung phones with parts made from fishing nets
+% Wed, 09 Feb 2022 16:42:21 +0000
+$ https://www.bbc.co.uk/news/technology-60317999?at_medium=RSS&at_campaign=KARANGA
+
+> Arm boss: We can do it by ourselves
+% Wed, 09 Feb 2022 14:30:40 +0000
+$ https://www.bbc.co.uk/news/technology-60317998?at_medium=RSS&at_campaign=KARANGA
+
+> Boris Johnson accused of not taking online fraud seriously
+% Wed, 09 Feb 2022 16:33:45 +0000
+$ https://www.bbc.co.uk/news/uk-politics-60318613?at_medium=RSS&at_campaign=KARANGA
+
+> Foreign Office target of 'serious cyber incident'
+% Tue, 08 Feb 2022 18:49:03 +0000
+$ https://www.bbc.co.uk/news/technology-60309335?at_medium=RSS&at_campaign=KARANGA
+
+> Record-high seizure of $5bn in stolen Bitcoin
+% Tue, 08 Feb 2022 21:56:37 +0000
+$ https://www.bbc.co.uk/news/world-us-canada-60310783?at_medium=RSS&at_campaign=KARANGA
+
+> UK chip firm Arm sale by Softbank collapses amid competition fears
+% Tue, 08 Feb 2022 08:05:37 +0000
+$ https://www.bbc.co.uk/news/business-60297874?at_medium=RSS&at_campaign=KARANGA
+
+> Peloton boss John Foley to step down as firm axes 2,800 jobs
+% Tue, 08 Feb 2022 15:55:27 +0000
+$ https://www.bbc.co.uk/news/business-60301936?at_medium=RSS&at_campaign=KARANGA
+
+> Meta told to overhaul policies over doxxing fears
+% Tue, 08 Feb 2022 13:34:39 +0000
+$ https://www.bbc.co.uk/news/technology-60302683?at_medium=RSS&at_campaign=KARANGA
+
+> Porn sites will be legally required to verify users' age
+% Tue, 08 Feb 2022 00:06:10 +0000
+$ https://www.bbc.co.uk/news/technology-60293057?at_medium=RSS&at_campaign=KARANGA
+
+> TikTok acts on unhealthy eating videos
+% Tue, 08 Feb 2022 11:59:11 +0000
+$ https://www.bbc.co.uk/news/technology-60302685?at_medium=RSS&at_campaign=KARANGA
+
+> Amazon and Nike exploring Peloton takeover, reports say
+% Mon, 07 Feb 2022 10:06:04 +0000
+$ https://www.bbc.co.uk/news/business-60283870?at_medium=RSS&at_campaign=KARANGA
+
+> Tech giants targeted in harmful content crackdown
+% Sat, 05 Feb 2022 19:14:55 +0000
+$ https://www.bbc.co.uk/news/technology-60264178?at_medium=RSS&at_campaign=KARANGA
+
+> North Korea: Missile programme funded through stolen crypto, UN report says
+% Sun, 06 Feb 2022 16:11:00 +0000
+$ https://www.bbc.co.uk/news/world-asia-60281129?at_medium=RSS&at_campaign=KARANGA
+
+> Meta moves to tackle creepy behaviour in virtual reality
+% Fri, 04 Feb 2022 14:54:37 +0000
+$ https://www.bbc.co.uk/news/technology-60247542?at_medium=RSS&at_campaign=KARANGA
+
+> Facebook owner Meta sees biggest ever stock market loss
+% Fri, 04 Feb 2022 05:40:49 +0000
+$ https://www.bbc.co.uk/news/business-60255088?at_medium=RSS&at_campaign=KARANGA
+
+> European oil facilities hit by cyber-attacks
+% Thu, 03 Feb 2022 20:50:19 +0000
+$ https://www.bbc.co.uk/news/technology-60250956?at_medium=RSS&at_campaign=KARANGA
+
+> KP Snacks hack prompts crisp and nut supplies warning
+% Thu, 03 Feb 2022 11:32:48 +0000
+$ https://www.bbc.co.uk/news/technology-60230077?at_medium=RSS&at_campaign=KARANGA
+
+> Koo: India's Twitter alternative with global ambitions
+% Fri, 04 Feb 2022 00:20:03 +0000
+$ https://www.bbc.co.uk/news/world-asia-india-60194920?at_medium=RSS&at_campaign=KARANGA
+
+> Jeff Bezos' superyacht will see historic bridge dismantled
+% Thu, 03 Feb 2022 13:45:31 +0000
+$ https://www.bbc.co.uk/news/world-europe-60241145?at_medium=RSS&at_campaign=KARANGA
+
+> Wordle code could be copied to play for seven years
+% Wed, 02 Feb 2022 16:35:50 +0000
+$ https://www.bbc.co.uk/news/technology-60231055?at_medium=RSS&at_campaign=KARANGA
+
+> Havana Syndrome may be caused by ‘directed energy’
+% Wed, 02 Feb 2022 20:44:20 +0000
+$ https://www.bbc.co.uk/news/world-us-canada-60237839?at_medium=RSS&at_campaign=KARANGA
+
+> Facebook: Daily active users fall for first time in 18-year history
+% Thu, 03 Feb 2022 04:16:10 +0000
+$ https://www.bbc.co.uk/news/business-60238565?at_medium=RSS&at_campaign=KARANGA
+
+> Spotify boss says too early to know Joe Rogan row impact
+% Thu, 03 Feb 2022 05:23:48 +0000
+$ https://www.bbc.co.uk/news/business-60239263?at_medium=RSS&at_campaign=KARANGA
+
+> Mental health helpline ends data-sharing relationship
+% Wed, 02 Feb 2022 14:12:05 +0000
+$ https://www.bbc.co.uk/news/technology-60218894?at_medium=RSS&at_campaign=KARANGA
+
+> New 2030 target set for nationwide 1Gbps broadband
+% Wed, 02 Feb 2022 17:23:29 +0000
+$ https://www.bbc.co.uk/news/technology-60231054?at_medium=RSS&at_campaign=KARANGA
+
+> Andrew Forrest: Australian billionaire launches criminal case against Facebook
+% Thu, 03 Feb 2022 04:57:44 +0000
+$ https://www.bbc.co.uk/news/world-australia-60238985?at_medium=RSS&at_campaign=KARANGA
+
+> DeepMind AI rivals average human competitive coder
+% Wed, 02 Feb 2022 16:00:32 +0000
+$ https://www.bbc.co.uk/news/technology-60231058?at_medium=RSS&at_campaign=KARANGA
+
+> Tesla recalls cars that may roll past stop signs
+% Wed, 02 Feb 2022 16:04:27 +0000
+$ https://www.bbc.co.uk/news/technology-60230072?at_medium=RSS&at_campaign=KARANGA
+
+> What next for Wordle and its fans?
+% Wed, 02 Feb 2022 00:52:39 +0000
+$ https://www.bbc.co.uk/news/technology-60215251?at_medium=RSS&at_campaign=KARANGA
+
+> Supermarket cameras to guess age of alcohol buyers
+% Wed, 02 Feb 2022 13:31:27 +0000
+$ https://www.bbc.co.uk/news/technology-60215258?at_medium=RSS&at_campaign=KARANGA
+
+> Joe Rogan: White House praises Spotify's new Covid disclaimers
+% Tue, 01 Feb 2022 22:24:16 +0000
+$ https://www.bbc.co.uk/news/world-us-canada-60221522?at_medium=RSS&at_campaign=KARANGA
+
+> India says it will launch digital rupee as soon as this year
+% Wed, 02 Feb 2022 06:23:21 +0000
+$ https://www.bbc.co.uk/news/business-60225372?at_medium=RSS&at_campaign=KARANGA
+
+> FBI urges temporary phones for Olympic athletes
+% Tue, 01 Feb 2022 12:29:13 +0000
+$ https://www.bbc.co.uk/news/technology-60215250?at_medium=RSS&at_campaign=KARANGA
+
+> How augmented reality could spot when building work goes wrong
+% Wed, 09 Feb 2022 11:22:25 +0000
+$ https://www.bbc.co.uk/news/technology-60317402?at_medium=RSS&at_campaign=KARANGA
+
+> Click News: A round-up of the week's tech news
+% Fri, 04 Feb 2022 12:04:40 +0000
+$ https://www.bbc.co.uk/news/technology-60261508?at_medium=RSS&at_campaign=KARANGA
+
+> Can tech help make us better football players?
+% Wed, 02 Feb 2022 09:29:57 +0000
+$ https://www.bbc.co.uk/news/technology-60219453?at_medium=RSS&at_campaign=KARANGA
+
+> Inside Kazakhstan's giant crypto-mine
+% Mon, 31 Jan 2022 00:01:28 +0000
+$ https://www.bbc.co.uk/news/technology-60148754?at_medium=RSS&at_campaign=KARANGA
+
+> Shang-Chi: How we brought realism to the film’s dragons
+% Wed, 26 Jan 2022 16:57:04 +0000
+$ https://www.bbc.co.uk/news/technology-60127133?at_medium=RSS&at_campaign=KARANGA
+
+> Parrots for sale: The internet's role in illicit trade
+% Sat, 05 Feb 2022 01:09:30 +0000
+$ https://www.bbc.co.uk/news/technology-60247540?at_medium=RSS&at_campaign=KARANGA
+
+> Microsoft's mega-deal worries small video game makers
+% Tue, 08 Feb 2022 00:21:31 +0000
+$ https://www.bbc.co.uk/news/business-60241535?at_medium=RSS&at_campaign=KARANGA
+
+> The airport tech helping to prevent delayed flights
+% Mon, 07 Feb 2022 00:03:47 +0000
+$ https://www.bbc.co.uk/news/business-60228430?at_medium=RSS&at_campaign=KARANGA
+
+> From bike lanes to lost pets - the Nextdoor network
+% Fri, 04 Feb 2022 00:21:33 +0000
+$ https://www.bbc.co.uk/news/technology-60246962?at_medium=RSS&at_campaign=KARANGA
+
+> How to store excess wind power underwater
+% Fri, 04 Feb 2022 00:11:36 +0000
+$ https://www.bbc.co.uk/news/business-60066690?at_medium=RSS&at_campaign=KARANGA
+
+> Why cows may be hiding something but AI can spot it
+% Tue, 01 Feb 2022 00:01:25 +0000
+$ https://www.bbc.co.uk/news/business-59635186?at_medium=RSS&at_campaign=KARANGA
+
+> The scramble for cargo aircraft as shipping costs soar
+% Fri, 28 Jan 2022 00:08:44 +0000
+$ https://www.bbc.co.uk/news/business-59957410?at_medium=RSS&at_campaign=KARANGA
+
+> Instagram and Whatsapp stalker's lies 'ruined my life for years'
+% Wed, 26 Jan 2022 06:17:21 +0000
+$ https://www.bbc.co.uk/news/uk-england-merseyside-59211163?at_medium=RSS&at_campaign=KARANGA
+
+> AI: Why chefs are turning to artificial intelligence
+% Tue, 25 Jan 2022 00:34:59 +0000
+$ https://www.bbc.co.uk/news/business-59651077?at_medium=RSS&at_campaign=KARANGA
+
+> The people deciding to ditch their smartphones
+% Mon, 24 Jan 2022 00:27:05 +0000
+$ https://www.bbc.co.uk/news/business-60067032?at_medium=RSS&at_campaign=KARANGA
+
+> Like a drone that you sit in – but would you feel safe?
+% Fri, 21 Jan 2022 01:11:52 +0000
+$ https://www.bbc.co.uk/news/business-59372326?at_medium=RSS&at_campaign=KARANGA
+
+> Facebook Messenger: The battle over end-to-end encryption
+% Wed, 19 Jan 2022 14:43:53 +0000
+$ https://www.bbc.co.uk/news/technology-60055270?at_medium=RSS&at_campaign=KARANGA
+
+> 5G phones: How serious is the threat to US flights?
+% Wed, 19 Jan 2022 09:56:27 +0000
+$ https://www.bbc.co.uk/news/business-60042178?at_medium=RSS&at_campaign=KARANGA
+
+> How Nigeria succeeded in clipping Twitter's wings
+% Tue, 18 Jan 2022 00:16:23 +0000
+$ https://www.bbc.co.uk/news/world-africa-60024742?at_medium=RSS&at_campaign=KARANGA
+
+> What can we do to get more women into coding?
+% Tue, 18 Jan 2022 00:08:04 +0000
+$ https://www.bbc.co.uk/news/business-59045771?at_medium=RSS&at_campaign=KARANGA
+
+> How delivery apps created 'the Netflix of food ordering'
+% Mon, 17 Jan 2022 00:06:23 +0000
+$ https://www.bbc.co.uk/news/business-59977996?at_medium=RSS&at_campaign=KARANGA
+
+> The controversy of wood pellets as a green energy source
+% Tue, 11 Jan 2022 00:01:20 +0000
+$ https://www.bbc.co.uk/news/business-59546278?at_medium=RSS&at_campaign=KARANGA
+
+> The AI software that could turn you in to a music star
+% Mon, 10 Jan 2022 00:03:28 +0000
+$ https://www.bbc.co.uk/news/business-59878572?at_medium=RSS&at_campaign=KARANGA
+
+> The companies offering delivery to the Moon
+% Fri, 07 Jan 2022 00:01:20 +0000
+$ https://www.bbc.co.uk/news/business-59345911?at_medium=RSS&at_campaign=KARANGA
+
+> CES: Should the world’s biggest tech show have gone ahead?
+% Fri, 07 Jan 2022 10:32:58 +0000
+$ https://www.bbc.co.uk/news/business-59908482?at_medium=RSS&at_campaign=KARANGA
+
+> Elizabeth Holmes: Has the Theranos scandal changed Silicon Valley?
+% Tue, 04 Jan 2022 00:56:41 +0000
+$ https://www.bbc.co.uk/news/technology-58469882?at_medium=RSS&at_campaign=KARANGA
+
+
+// The CyberWire
+
+> Deterrence, diplomacy, in hybrid war. UK Foreign Office hacked. Threats to Linux-based multi-cloud environments. Patch Tuesday.
+% Wed, 09 Feb 2022 17:23:44 +0000
+$ https://thecyberwire.com/newsletters/daily-briefing/11/27
+
+> Diplomacy continues (as does preparation for hybrid war).
+% Wed, 09 Feb 2022 16:38:31 +0000
+$ https://thecyberwire.com/stories/d1543536fd3949f3a506c59f5e4e60b0/a-warning-to-businesses-watch-for-cyberattacks
+
+> Zero-day flaw in Zimbra exploited by suspected Chinese threat actor. New Molerats campaign. Antlion targets financial entities in Taiwan.
+% Tue, 08 Feb 2022 22:00:00 +0000
+$ https://thecyberwire.com/podcasts/research-briefing/103/notes
+
+> Crowdfunding hacktivists and other irregulars. The Molerats have some new tools. Right-to-left override. Arrests in a cryptocurrency money-laundering case.
+% Tue, 08 Feb 2022 21:30:00 +0000
+$ https://thecyberwire.com/podcasts/daily-podcast/1511/notes
+
+> Zero-day flaw in Zimbra exploited by suspected Chinese threat actor. New Molerats campaign. Antlion targets financial entities in Taiwan.
+% Tue, 08 Feb 2022 21:00:00 +0000
+$ https://thecyberwire.com/newsletters/research-briefing/4/6
+
+> Another iPhone spyware case. Ad-tracking on healthcare sites. Cookie banners and GDPR. Reactions to News Corps data compromise. Puma suffers data loss through third-party service provider.
+% Tue, 08 Feb 2022 20:52:28 +0000
+$ https://thecyberwire.com/podcasts/privacy-briefing/517/notes
+
+> New issues surface in Israeli police surveillance scandal. IRS calls a halt to its facial recognition plans. Regulatory headwinds are prevailing winds.
+% Tue, 08 Feb 2022 20:45:00 +0000
+$ https://thecyberwire.com/newsletters/policy-briefing/4/26
+
+> Another iPhone spyware case. Ad-tracking on healthcare sites. Cookie banners and GDPR. Reactions to News Corps data compromise. Puma suffers data loss through third-party service provider.
+% Tue, 08 Feb 2022 20:30:00 +0000
+$ https://thecyberwire.com/newsletters/privacy-briefing/4/26
+
+> Crowdfunding hacktivism. New Molerats campaign. Right-to-left override seems to be back. Vodafone Portugal hit by a cyberattack.
+% Tue, 08 Feb 2022 17:49:45 +0000
+$ https://thecyberwire.com/newsletters/daily-briefing/11/26
+
+> Strategic clarity and strategic ambiguity. (And cryptocurrency on the side.)
+% Tue, 08 Feb 2022 16:37:57 +0000
+$ https://thecyberwire.com/stories/2a10ab4bfe0f4590ba3dc98e4912bdaa/clarity-and-strategic-ambiguity
+
+> “Russia Upside Down” – with Creator of The Americans Joe Weisberg
+% Tue, 08 Feb 2022 12:00:00 +0000
+$ https://thecyberwire.com/podcasts/spycast/525/notes
+
+> Cybersecurity & Privacy Protections
+% Tue, 08 Feb 2022 08:05:00 +0000
+$ https://thecyberwire.com/podcasts/afternoon-cyber-tea/45/notes
+
+> OWASP software and data integrity failures (noun)
+% Tue, 08 Feb 2022 06:00:00 +0000
+$ https://thecyberwire.com/podcasts/word-notes/87/notes
+
+> A conversation with James Linton (aka The Email Prankster)
+% Tue, 08 Feb 2022 05:00:00 +0000
+$ https://thecyberwire.com/podcasts/8th-layer-insights/15/notes
+
+> Russia’s hybrid war against Ukraine is currently heavier on the cyber than it is on the kinetic. BlackCat’s connection with DarkSide. An alert on LockBit. And six Indian call centers indicted.
+% Mon, 07 Feb 2022 21:15:00 +0000
+$ https://thecyberwire.com/podcasts/daily-podcast/1510/notes
+
+> Russia's UBS national biometric database gets state system status. Israel suspends exports of offensive cyber tools. Controversy over spyware in India. FCC counts rip-and-replace costs.
+% Mon, 07 Feb 2022 20:45:00 +0000
+$ https://thecyberwire.com/newsletters/policy-briefing/4/25
+
+> Athletes' privacy threatened by Olympic app. News Corp hacked. Washington State licensing agency suffers data breach.
+% Mon, 07 Feb 2022 20:33:33 +0000
+$ https://thecyberwire.com/podcasts/privacy-briefing/516/notes
+
+> Athletes' privacy threatened by Olympic app. News Corp hacked. Washington State licensing agency suffers data breach.
+% Mon, 07 Feb 2022 20:30:00 +0000
+$ https://thecyberwire.com/newsletters/privacy-briefing/4/25
+
+> Update on FSB cyber ops against Ukraine. BlackCat is DarkSide's successor. FBI warns of LockBit.
+% Mon, 07 Feb 2022 16:21:11 +0000
+$ https://thecyberwire.com/newsletters/daily-briefing/11/25
+
+> Collection courtesy of Actinium.
+% Mon, 07 Feb 2022 14:29:17 +0000
+$ https://thecyberwire.com/stories/21ae4c4988b3451799088a51d70f89b9/collection-from-crimea
+
+> CISO evolution - around the Hash Table.
+% Mon, 07 Feb 2022 07:00:00 +0000
+$ https://thecyberwire.com/podcasts/cso-perspectives-public/32/notes
+
+> Supply chain security: History and potential future.
+% Mon, 07 Feb 2022 07:00:00 +0000
+$ https://thecyberwire.com/podcasts/cso-perspectives/68/notes
+
+> Chris Hadnagy: Show them that you're worth it. [Social engineer]
+% Sun, 06 Feb 2022 06:00:00 +0000
+$ https://thecyberwire.com/podcasts/career-notes/86/notes
+
+> The persistent and patient nature of advanced threat actors.
+% Sat, 05 Feb 2022 06:00:00 +0000
+$ https://thecyberwire.com/podcasts/research-saturday/218/notes
+
+> Russian cyberactivity against Ukraine. Lazarus Group impersonates Lockheed Martin. Threats to industrial control systems.
+% Sat, 05 Feb 2022 05:15:00 +0000
+$ https://thecyberwire.com/newsletters/week-that-was/6/5
+
+> Cyberactivity surrounding the Winter Olympics.
+% Fri, 04 Feb 2022 21:26:44 +0000
+$ https://thecyberwire.com/stories/0386730949584fc7939a78768aaf9549/cyberactivity-surrounding-the-winter-olympics
+
+> Tax-prep phishing. Equifax messages are legit. Illinois county releases breach investigation. New Google Workspace privacy settings. Target open-sources skimming detector.
+% Fri, 04 Feb 2022 21:17:28 +0000
+$ https://thecyberwire.com/podcasts/privacy-briefing/515/notes
+
+> Update on Russian cyber ops and disinformation around Ukraine. Ransomware disrupts European ports. Chinese intelligence services exploit a Zimbra zero-day.
+% Fri, 04 Feb 2022 21:15:00 +0000
+$ https://thecyberwire.com/podcasts/daily-podcast/1509/notes
+
+> Notes on the US Cyber Safety Review Board (CSRB). Log4j will be the CSRB's first case. US Department of Defense assigns CMMC to its CIO.
+% Fri, 04 Feb 2022 21:15:00 +0000
+$ https://thecyberwire.com/newsletters/policy-briefing/4/24
+
+> Tax-prep phishing. Equifax messages are legit. Illinois county releases breach investigation. New Google Workspace privacy settings. Target open-sources skimming detector.
+% Fri, 04 Feb 2022 21:00:00 +0000
+$ https://thecyberwire.com/newsletters/privacy-briefing/4/24
+
+> Chris Wysopal of Veracode discuss their research that shows how increases in automation, componentization in software dev; gives rise to SecDevOps.
+% Fri, 04 Feb 2022 20:46:30 +0000
+$ https://thecyberwire.com/podcasts/interview-selects/96/notes
+
+> Russia prepares deep fakes? Ransomware disrupts logistical services in Europe. A Chinese APT prospects European governments.
+% Fri, 04 Feb 2022 16:51:59 +0000
+$ https://thecyberwire.com/newsletters/daily-briefing/11/24
+
+> Deep fakes turn deadly?
+% Fri, 04 Feb 2022 14:50:28 +0000
+$ https://thecyberwire.com/stories/7c7c8daee6eb4bbba9a512bdec8bd680/deep-fakes-as-a-bogus-casus-belli
+
+> Emsisoft helps Deadbolt ransomware victims. Sugar ransomware-as-a-service targets individual devices. Conti hits British snack food giant.
+% Thu, 03 Feb 2022 21:57:17 +0000
+$ https://thecyberwire.com/podcasts/privacy-briefing/514/notes
+
+> Ukraine goes to a higher state of cyber alert. Chinese cyberespionage hits financial services in Taiwan. Arid Viper is back, and so is Adalat Ali. BlackCat disrupts fuel distro in Germany. Hacking the DPRK.
+% Thu, 03 Feb 2022 21:46:01 +0000
+$ https://thecyberwire.com/podcasts/daily-podcast/1508/notes
+
+> Russian disinformation concerning Ukraine. Beijing amplifies Russian talking points.
+% Thu, 03 Feb 2022 21:15:00 +0000
+$ https://thecyberwire.com/newsletters/disinformation-briefing/4/5
+
+> CISA forms the US Cyber Safety Review Board. Proposed European framework for cross-border financial cyber incident response. UK GDPR data transfer tools.
+% Thu, 03 Feb 2022 20:45:00 +0000
+$ https://thecyberwire.com/newsletters/policy-briefing/4/23
+
+> Emsisoft helps Deadbolt ransomware victims. Sugar ransomware-as-a-service targets individual devices. Conti hits British snack food giant.
+% Thu, 03 Feb 2022 20:45:00 +0000
+$ https://thecyberwire.com/newsletters/privacy-briefing/4/23
+
+> Update on Russian hybrid war. Cyberespionage in Taiwan's. Hacktivisim in Iran. BlackCat ransomware in fuel distribution attack.
+% Thu, 03 Feb 2022 17:49:16 +0000
+$ https://thecyberwire.com/newsletters/daily-briefing/11/23
+
+> Prep and staging during a diplomatic pause in the Russia-Ukraine crisis.
+% Thu, 03 Feb 2022 16:50:50 +0000
+$ https://thecyberwire.com/stories/8f78c6f097f14a73a0369b37d3ca7c98/prep-and-staging-during-a-diplomatic-pause-in-the-russia-ukraine-crisis
